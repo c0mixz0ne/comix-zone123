@@ -1,2 +1,3 @@
-# comix-zone123
+# comix-zone
+# create game
 upd:first file
